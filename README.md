@@ -42,7 +42,7 @@ Try to swipe the cards upwards and leftwards or rightwards
 
 ### Profile Visit
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.dating-app-mern&left_color=green&right_color=red&theme=dark&title_color=009933)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.dating-app-frontend&left_color=green&right_color=red&theme=dark&title_color=009933)
 
 [![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
 
