@@ -1,9 +1,10 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Frontend for Dating App
+Frontend for Dating App --skeleton project
 
+[![dating-app-frontend.png](https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png)](https://postimg.cc/gr6Cdytd)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/77e3c07d-6ffc-48e0-a983-280e215e9f45/deploy-status)](https://app.netlify.com/sites/dating-app-mern/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eeb839c7-b17b-47e9-ac86-238f331b3d6f/deploy-status)](https://app.netlify.com/sites/dating-site-frontend/deploys)
 
 #### Top Technologies
 
@@ -24,7 +25,7 @@ Frontend for Dating App
 
 ### Github extra pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=dating-app-mern&theme=dark&title_color=009933)](https://github.com/wazimuhb/dating-app-mern&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=dating-app-frontend&theme=dark&title_color=009933)](https://github.com/wazimuhb/dating-app-frontend&show_owner=true&count_private=true)
 
 ### Compact language card layout
 
