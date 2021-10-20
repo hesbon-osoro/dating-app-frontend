@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend for Dating App
 
-## Available Scripts
 
-In the project directory, you can run:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77e3c07d-6ffc-48e0-a983-280e215e9f45/deploy-status)](https://app.netlify.com/sites/dating-app-mern/deploys)
 
-### `yarn start`
+#### Top Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- TODO: Make technologies links takes you to repositories -->
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### `yarn test`
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🏆 My Trophies
 
-### `yarn build`
+[![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/dating-app-mern)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Github Stats
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Github extra pins
 
-### `yarn eject`
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=dating-app-mern&theme=dark&title_color=009933)](https://github.com/wazimuhb/dating-app-mern&show_owner=true&count_private=true)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Compact language card layout
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazimuhb&layout=compact&theme=dark&title_color=009933)](https://github.com/wazimuhb/dating-app-mern)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Wakatime Week Stats
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/wazimuhb/dating-app-mern)
 
-## Learn More
+[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239/project/9689f3ff-dfec-4fd9-b38e-380180e25c44.svg)](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239/project/9689f3ff-dfec-4fd9-b38e-380180e25c44)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Profile Visit
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.dating-app-mern&left_color=green&right_color=red&theme=dark&title_color=009933)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
