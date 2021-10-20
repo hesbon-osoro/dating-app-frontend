@@ -38,7 +38,7 @@ Try to swipe the cards upwards and leftwards or rightwards
 
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/wazimuhb/dating-app-mern)
 
-[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239/project/9689f3ff-dfec-4fd9-b38e-380180e25c44.svg)](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239/project/9689f3ff-dfec-4fd9-b38e-380180e25c44)
+[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
 
 ### Profile Visit
 
