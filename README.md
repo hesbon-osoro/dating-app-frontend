@@ -11,3 +11,11 @@ When you visit the site be patient,<br />
 The images maybe loading slow.<br />
 The site currently has minimal functionality.<br />
 Try to swipe the cards upwards and leftwards or rightwards
+
+## Technologies
+- React
+- Node
+- Tinder
+- MongoDB
+- Express
+- Material UI
